@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+
+.eslint.json
+
+.eslintignore
+
+.editorconfig
+
+prettier.config.js
+
+tsconfig.json
